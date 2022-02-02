@@ -5,6 +5,7 @@ over the period of last 24 months, using powerful machine learning models and Da
 A report of the observed results can be found in this repo as well.
 
 Medium         : Jupyter ipynb notebook
+
 Dataset source : https://www.kaggle.com/mczielinski/bitcoin-historical-data
 
 Steps of execution: 
